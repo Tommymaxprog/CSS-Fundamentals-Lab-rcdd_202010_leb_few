@@ -18,3 +18,23 @@ a{
   background-color: grey;
   
 }
+
+figcaption{
+  font-size: 12;
+  text-align: center;
+}
+
+p#featured-property{
+  width: 800px;
+  text-align: center;
+}
+
+#details{
+  display: block;
+}
+ details~div{
+   float: left;
+   
+ }
+ 
+}
